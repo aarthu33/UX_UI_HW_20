@@ -1,0 +1,22 @@
+.navbar-logo{
+    justify-content:left;
+    width: 250px;
+    height: 38px;
+}
+.list-group{
+    width: 500px;
+    justify-content:left;
+}
+.card{
+    padding:10px;
+}
+.row{
+    justify-content:space-evenly;
+}
+.revisions{
+    width:100%;
+}
+.finalImages{
+    width:65%;
+    grid: 50%;
+}
